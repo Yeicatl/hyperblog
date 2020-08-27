@@ -9,3 +9,4 @@ Un blog increible como estudiante del curso de git y git hub en platzi
 - Disfruta de utilizar git en tu terminal y recuerda los comandos basicos :tw-1f47a:
 - Creado por el increible Yeic 
 - incluye ilustraciones y diseños increibles 
+- disponible para todos los locos del mundo
