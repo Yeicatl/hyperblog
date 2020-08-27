@@ -7,3 +7,4 @@ Un blog increible como estudiante del curso de git y git hub en platzi
 - No olvidea escribir el mensaje antes de hace commit con *git commit -am ""*
 - Usar git pull origin master y git push 
 - Disfruta de utilizar git en tu terminal y recuerda los comandos basicos :tw-1f47a:
+- Creado por el increible Yeic 
