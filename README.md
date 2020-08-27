@@ -8,3 +8,4 @@ Un blog increible como estudiante del curso de git y git hub en platzi
 - Usar git pull origin master y git push 
 - Disfruta de utilizar git en tu terminal y recuerda los comandos basicos :tw-1f47a:
 - Creado por el increible Yeic 
+- incluye ilustraciones y diseños increibles 
